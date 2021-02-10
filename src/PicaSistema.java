@@ -18,6 +18,7 @@ public class PicaSistema {
 			
 			
 		}while(izmers!=25 && izmers!=30 && izmers!=50);
+		vards=(JOptionPane.showInputDialog("Ievadiet pasūtītāja vārdu!"));
 	}
 
 }
