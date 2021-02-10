@@ -20,6 +20,7 @@ public class PicaSistema {
 		}while(izmers!=25 && izmers!=30 && izmers!=50);
 		vards=(JOptionPane.showInputDialog("Ievadiet pasūtītāja vārdu!"));
 		telnr=(JOptionPane.showInputDialog("Ievadiet telefona numuru!"));
+		piegade=(JOptionPane.showInputDialog("Sakarā ar pašreizējo situaciju valstī picas varat saņemt tikai ar piegadi uz majām tāpēc norādiet savu ardesi!"));
 	}
 
 }
