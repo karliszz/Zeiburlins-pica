@@ -2,7 +2,11 @@
 public class PicaSistema {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		String izvele;
+		int izmers;
+		String vards;
+		String telnr;
+		String piegade;
 
 	}
 
