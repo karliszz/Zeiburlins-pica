@@ -13,7 +13,11 @@ public class PicaSistema {
 			izvele = izvele.toLowerCase();
 			
 		}while(!izvele.matches("studentu | mocarella | hawai | pikanta"));
-
+		do {
+			izmers = Integer.parseInt(JOptionPane.showInputDialog("Ievadi picas izmēru: 25, 30, vai 50"));
+			
+			
+		}while(izmers!=25 && izmers!=30 && izmers!=50);
 	}
 
 }
