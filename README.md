@@ -7,4 +7,4 @@
 ##Veicamo darbu saraksts 	:pizza:
 - [x] Projekta izgrūšana uz GitHub krātuvi
 - [X] Izdzēst liekos zarus 
-- [ ] Projekta pabeigšana pabeigšana
+- [X] Projekta pabeigšana pabeigšana
