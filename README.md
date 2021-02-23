@@ -6,5 +6,5 @@
 ![Picas bilde](https://i.pinimg.com/originals/4d/f1/5b/4df15b219d4cfc625a490cbae30a968e.png)
 ##Veicamo darbu saraksts 	:pizza:
 - [x] Projekta izgrūšana uz GitHub krātuvi
-- [ ] Izdzēst liekos zarus 
+- [X] Izdzēst liekos zarus 
 - [ ] Projekta pabeigšana pabeigšana
